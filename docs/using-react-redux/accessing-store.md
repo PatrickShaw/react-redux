@@ -28,7 +28,7 @@ state into context, and `connect` uses `<ReactReduxContext.Consumer>` to read th
 
 ## Using the `useStore` Hook
 
-The [`useStore` hook](../api/hooks.md#useStore) returns the current store instance from the default `ReactReduxContext`. If you truly need to access the store, this is the recommended approach.
+The [`useStore` hook](https://react-redux.js.org/api/hooks#usestore) returns the current store instance from the default `ReactReduxContext`. If you truly need to access the store, this is the recommended approach.
 
 ## Providing Custom Context
 
